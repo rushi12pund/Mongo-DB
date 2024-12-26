@@ -1,0 +1,25 @@
+{
+  "name": "book-record-",
+  "version": "1.0.0",
+  "description": "library system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/rushi12pund/book-record--)"
+  },
+  "author": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "mongoose": "^8.9.2"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
